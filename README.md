@@ -4,7 +4,7 @@
 docker-compose up
 ```
 
-で、`https://localhost:8080`にアクセス。
+で、`http://localhost:8080`にアクセス。
 
 管理者アカウント
 ID: `admin`
